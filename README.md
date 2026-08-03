@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Naman Goel 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Hi%20there,%20I'm%20Naman%20Goel%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">Java Backend Developer in the making | CSE (Data Science) Undergrad</h3>
 
@@ -73,6 +73,19 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangoel07&theme=tokyonight&hide_border=true" />
 </p>
 
+> ⚠️ Note: the public `github-readme-stats.vercel.app` instance is shared by thousands of users and occasionally returns a broken image (503) due to GitHub API rate limits. If these cards stop rendering, the fix is self-hosting your own copy on Vercel — not a problem with this file.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namangoel07/namangoel07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/namangoel07/namangoel07/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
+> This animates automatically once the `snake.yml` GitHub Action (shared earlier) runs and pushes to the `output` branch — no manual image upload needed, it updates itself daily.
+
 ---
 
 ### 🧩 LeetCode Stats
@@ -83,10 +96,18 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
 
 ---
 
-### 🔥 Contribution Graph
+### 🔥 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namangoel07&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namangoel07&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -96,3 +117,5 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/namangoel07">namangoel07</a> — always open to connect and collaborate!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer" />
