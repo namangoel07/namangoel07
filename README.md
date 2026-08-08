@@ -64,7 +64,6 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangoel07&theme=tokyonight&hide_border=true" />
 </p>
 
-> ⚠️ Note: the public `github-readme-stats.vercel.app` instance is shared by thousands of users and occasionally returns a broken image (503) due to GitHub API rate limits. If these cards stop rendering, the fix is self-hosting your own copy on Vercel — not a problem with this file.
 
 ---
 
@@ -75,7 +74,6 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
   <img src="https://raw.githubusercontent.com/namangoel07/namangoel07/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
-> This animates automatically once the `snake.yml` GitHub Action (shared earlier) runs and pushes to the `output` branch — no manual image upload needed, it updates itself daily.
 
 ---
 
