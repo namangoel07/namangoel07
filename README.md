@@ -35,15 +35,6 @@
 
 ---
 
-### 💼 Experience
-
-**IBM — Virtual Intern, Cloud Computing** · *Jun 2026 – Present*
-Learning IBM Cloud services, virtualization, and cloud deployment fundamentals.
-
-**IBM — Virtual Intern, Web Development** · *Jul 2025*
-Built responsive web pages with HTML/CSS as part of the IBM PBEL Virtual Internship.
-
----
 
 ### 📌 Featured Project
 
