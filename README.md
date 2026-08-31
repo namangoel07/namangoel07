@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech CSE (Data Science) student at **ABES Engineering College, Ghaziabad** (2024–2028)
 - 💻 Focused on becoming a **Java Backend SDE** — Core Java, Spring Boot, SQL, Microservices, AWS
-- 🧠 Currently deep in a structured backend roadmap: Core Java → Spring Boot → Microservices → System Design → DSA
+- 🧠 Currently working through a structured backend roadmap: Core Java → Spring Boot → Microservices → System Design → DSA
 - ☁️ Exploring **Cloud Computing** through an ongoing IBM virtual internship
 - 🌱 Actively solving DSA problems on **LeetCode** and competing on **CodeChef**
 - 📫 Reach me at **namangoya1405@gmail.com**
@@ -34,7 +34,6 @@
 **Core Concepts:** OOP · Collections Framework · Streams API · Exception Handling · Multithreading · Servlets · JDBC
 
 ---
-
 
 ### 📌 Featured Project
 
@@ -60,28 +59,11 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namangoel07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namangoel07&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/namangoel07/namangoel07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/namangoel07/namangoel07/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-
-
----
-
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/namangoel914?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
+<!--
+  Streak stats badge removed — the Heroku-hosted service (github-readme-streak-stats.herokuapp.com)
+  is unreliable since Heroku killed its free tier. If you want a streak badge, self-host the
+  streak-stats repo on Vercel (it's a one-click deploy) and swap the URL back in.
+-->
 
 ---
 
@@ -90,6 +72,22 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namangoel07&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-card.vercel.app/?username=namangoel914&theme=dark" />
+</p>
+
+<!--
+  Swapped leetcard.jacoblin.cool for leetcode-stats-card.vercel.app — the jacoblin service
+  has a history of multi-day outages since it's run by a single maintainer with no SLA.
+  This alternative is also community-run and can go down too, but has been more consistently
+  up. If it ever breaks, the shields.io LeetCode badge above in the header always works as
+  a fallback since it hits LeetCode's own API indirectly via a stable proxy.
+-->
 
 ---
 
