@@ -7,21 +7,27 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/naman-goel-44266b238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:namangoya1405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/namangoel914"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/naman-goel-44266b238">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:namangoya1405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/namangoel914">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE (Data Science) student at **ABES Engineering College, Ghaziabad** (2024–2028)
-- 💻 Focused on becoming a **Java Backend SDE** — Core Java, Spring Boot, SQL, Microservices, AWS
-- 🧠 Currently working through a structured backend roadmap: Core Java → Spring Boot → Microservices → System Design → DSA
-- ☁️ Exploring **Cloud Computing** through an ongoing IBM virtual internship
-- 🌱 Actively solving DSA problems on **LeetCode** and competing on **CodeChef**
-- 📫 Reach me at **namangoya1405@gmail.com**
+* 🎓 B.Tech CSE (Data Science) student at **ABES Engineering College, Ghaziabad** (2024–2028)
+* 💻 Focused on becoming a **Java Backend SDE** — Core Java, Spring Boot, SQL, Microservices, AWS
+* 🧠 Currently working through a structured backend roadmap: Core Java → Spring Boot → Microservices → System Design → DSA
+* ☁️ Exploring **Cloud Computing** through an ongoing IBM virtual internship
+* 🌱 Actively solving DSA problems on **LeetCode** and competing on **CodeChef**
+* 📫 Reach me at **[namangoya1405@gmail.com](mailto:namangoya1405@gmail.com)**
 
 ---
 
@@ -37,35 +43,18 @@
 
 ### 📌 Featured Project
 
-**[ShareMyRide – Vehicle Rental Frontend](https://github.com/namangoel07)**
+[**ShareMyRide – Vehicle Rental Frontend**](https://github.com/namangoel07)
+
 A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile, Payment, and Upload Vehicle pages — fully responsive across desktop and mobile.
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 🥇 Solved **90+ problems** on LeetCode (Arrays, Strings, Hashing, Two Pointers, Recursion)
-- ⚡ **500+ rating** on CodeChef through competitive programming contests
-- ☁️ **AWS Academy Graduate** — Cloud Foundations (Feb 2026)
-- 📜 IBM PBEL Virtual Internship — Web Development (Aug 2025)
-
-<!--
-  🏆 GitHub Trophies section removed for now, on purpose.
-  The official host (github-profile-trophy.vercel.app) is currently returning
-  HTTP 402 -- its free Vercel usage cap is exhausted, a known widely-reported issue.
-  I also tried every community load-balancer mirror the maintainer lists in the repo
-  (github-profile-trophy-winning / -liard-delta / -fork-two.vercel.app) and each one
-  returned an error too (400/404) when tested just now -- so rather than ship an
-  image that's confirmed broken, it's left out.
-  Two real fixes, both documented at https://github.com/ryo-ma/github-profile-trophy#readme:
-    1. Check that page's mirror list again later -- new volunteer mirrors get added
-       over time and one may be back up.
-    2. Self-host your own copy on a free Vercel account (~5 min, walked through on
-       that same page) -- this is the only option nothing else can break, since it's
-       then your own dedicated instance rather than a shared one.
-  Once you have a working URL, add it back here as:
-  <img src="<your-working-trophy-url>?username=namangoel07&theme=tokyonight&no-frame=true&row=1&column=6" />
--->
+* 🥇 Solved **90+ problems** on LeetCode (Arrays, Strings, Hashing, Two Pointers, Recursion)
+* ⚡ **500+ rating** on CodeChef through competitive programming contests
+* ☁️ **AWS Academy Graduate** — Cloud Foundations (Feb 2026)
+* 📜 IBM PBEL Virtual Internship — Web Development (Aug 2025)
 
 ---
 
@@ -76,44 +65,27 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namangoel07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!--
-  Heads up: this is the shared public instance, used by millions of profiles. Its
-  maintainers openly say it can rate-limit or briefly go down under load and recommend
-  self-hosting for a guaranteed-up version -- see:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  If you want zero dependency on anyone else's quota, that page walks through a one-click
-  fork-and-deploy to your own free Vercel account (~5 minutes, no cost).
--->
-
 ---
 
-### 🐍 Contribution Snake (live, generated by your own GitHub Action)
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namangoel07/namangoel07/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namangoel07/namangoel07/output/snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/namangoel07/namangoel07/output/snake.svg" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/namangoel07/namangoel07/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/namangoel07/namangoel07/output/snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/namangoel07/namangoel07/output/snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
   </picture>
 </p>
-
-<!--
-  This one is the most reliable "online" option of the bunch, because it isn't hosted
-  by a stranger's free-tier service at all -- it runs on YOUR OWN GitHub Actions, on
-  YOUR OWN repo, and commits its output to an "output" branch in this same repo. Nothing
-  outside GitHub itself is involved, so there's no third-party quota to exhaust.
-
-  One-time setup (required for the image above to appear):
-  1. Add the file at .github/workflows/snake.yml (provided alongside this README) to
-     this repo, on the main branch.
-  2. Go to your repo's Settings -> Actions -> General -> Workflow permissions, and set
-     it to "Read and write permissions". Save.
-  3. Go to the Actions tab, open "generate contribution snake", and click
-     "Run workflow" once to trigger it manually the first time.
-  4. After it finishes (~1 minute), a new "output" branch will exist with snake.svg and
-     snake-dark.svg in it -- that's what the <picture> tag above points to.
-  5. After that it re-runs automatically every day at 03:00 UTC and on every push to main.
--->
 
 ---
 
@@ -123,19 +95,14 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
   <img src="https://leetcard.jacoblin.cool/namangoel914?theme=dark" />
 </p>
 
-<!--
-  Switched to leetcard.jacoblin.cool -- the URL used before (leetcode-stats-card.vercel.app)
-  was pointing at that project's web-app frontend rather than its image-generating endpoint,
-  which is why it never rendered as an image. This one runs on Cloudflare's edge network
-  rather than a shared Vercel free tier, so it isn't exposed to the same rate-limit/402 issue.
--->
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namangoel07&style=flat-square&color=7AA2F7" alt="Profile Views"/>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/namangoel07">namangoel07</a> — always open to connect and collaborate!</i></p>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/namangoel07">namangoel07</a> — always open to connect and collaborate!</i>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer" />
