@@ -51,8 +51,8 @@ A responsive vehicle rental frontend with Home, Login, Vehicle Listing, Profile,
 
 ### 🏆 Achievements & Certifications
 
-* 🥇 Solved **90+ problems** on LeetCode (Arrays, Strings, Hashing, Two Pointers, Recursion)
-* ⚡ **500+ rating** on CodeChef through competitive programming contests
+* 🥇 Solved **140+ problems** on LeetCode (Arrays, Strings, Hashing, Two Pointers, Recursion)
+* ⚡ **1 star rating** on CodeChef through competitive programming contests
 * ☁️ **AWS Academy Graduate** — Cloud Foundations (Feb 2026)
 * 📜 IBM PBEL Virtual Internship — Web Development (Aug 2025)
 
